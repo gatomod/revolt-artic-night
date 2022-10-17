@@ -1,0 +1,44 @@
+slug = "artic-night"
+name = "Artic Night Theme"
+creator = "Gátomo"
+description = "A clean, minimalist and dark theme"
+tags = ["modern", "transparent", "dark", "background"]
+
+[variables]
+light = false
+accent = "#5c9aff"
+background = "#1e293b50"
+foreground = "#f8fafc"
+block = "#374151f0"
+message-box = "#1e293b90"
+mention = "#fbbf2430"
+success = "#22c55e"
+warning = "#fdba74"
+error = "#ef4444"
+tooltip = "#1e293b"
+hover = "rgba(0, 0, 0, 0.1)"
+
+[variables.scrollbar]
+thumb = "#4e8ddfd0"
+track = "transparent"
+
+[variables.primary]
+background = "#1e293b50"
+header = "#1e293b50"
+
+[variables.secondary]
+background = "#11182780"
+foreground = "#C8C8C8"
+header = "#11182780"
+
+[variables.tertiary]
+background = "4b556380"
+foreground = "#cbd5e1"
+
+[variables.status]
+online = "#10b981"
+away = "#fbbf24"
+focus = "#4799F0"
+busy = "#f87171"
+streaming = "#a78bfa"
+invisible = "#94a3b8"
