@@ -1,6 +1,7 @@
 slug = "artic-night"
 name = "Artic Night Theme"
 creator = "Gátomo"
+version = "0.0.1"
 description = "A clean, minimalist and dark theme"
 tags = ["modern", "transparent", "dark", "background"]
 
